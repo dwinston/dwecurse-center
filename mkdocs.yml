@@ -1,6 +1,7 @@
 site_name: Dwecurse Center
 nav:
     - Home: index.md
+    - Julia: julia.md
     - Blog: blog.md
     - About: about.md
 theme:
@@ -8,3 +9,6 @@ theme:
     palette:
         primary: 'teal'
         accent: 'teal'
+markdown_extensions:
+  - footnotes
+  - codehilite
