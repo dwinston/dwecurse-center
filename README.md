@@ -1,6 +1,6 @@
-# Welcome to Dwecurse Center
+# Dwecurse Center
 
-This is where I (Donny W.) write about recursing, recurse about writing, etc.
+Where I (Donny W.) write about recursing, recurse about writing, etc.
 
 ## Why?
 
