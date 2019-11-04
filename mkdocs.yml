@@ -1,6 +1,7 @@
 site_name: Dwecurse Center
 nav:
     - Home: index.md
+    - Blog: blog.md
     - About: about.md
 theme:
     name: 'material'
