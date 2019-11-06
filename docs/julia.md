@@ -1,6 +1,11 @@
 # Adventures with Julia
 
-I am slowly making my way through the online [v1.2 manual](https://docs.julialang.org/en/v1.2/).
+I am making my way through the online [v1.2 manual](https://docs.julialang.org/en/v1.2/). I feel competent in Python,
+which I've used for the past several years. I heard that Julia draws syntactic inspiration from MATLAB, with which I am
+out of practice but did use for several years. I am hoping that reading through the Julia manual, with an eye towards
+deviations from my expectations of how programming "works", will be more productive for me than seeking a third-party
+tutorial or book; such resources often assume the language to be learned is also the reader's first programming
+language.
 
 ## Gotchas
 

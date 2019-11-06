@@ -3,6 +3,32 @@
 This page is a log of thoughts that I am yet to organize into pages. Maybe I'll discover that I should have a proper
  blog, but for now this is a lightweight approximation that seems fine.
 
+## 2019-11-06 10:32
+
+Let's write about my second day at RC. In the morning, I did a pair programming workshop. After a cute intro, we split
+into teams to pair on implementing a version of [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game )). My
+partner and I swapped driving and navigating roles every 20 minutes with a timer, and we chose to program in Python
+using VSCode. Although we didn't finish an implementation before we decided to break for lunch, I enjoyed the
+back-and-forth. I'd definitely like to pair with a variety of people while at RC.
+
+In the afternoon, pairing happened again! :) I had signed up for auto-pairing Tue-Thu via RC's pairing bot on Zulip ,
+and I was matched with someone for the afternoon. I had been continuing my self-intro to Julia, and my partner noticed
+that I had open both the Julia manual and Jupyter notebook running a Julia kernel. He suggested we do something in
+Julia. Yay! However, I wasn't in the middle of some project for which we could implement a piece. I suggested that we
+tackle a problem on [Project Euler](https://projecteuler.net/). He hadn't heard of this site , but was supportive after
+I introduced it. We ended up solving one problem with me driving and then another with him driving. It was a fun way to
+scramble about mapping ideas we both had about how to solve things to how to do so in Julia. I had never written a
+function in Julia before, so "How do we write a function?" happened, as well as "Can we do a list comprehension in
+Julia?" (we were both familiar with so-called list comprehensions in Python). One of the problems seemed to have a
+straightforward solution if only we could do arithmetic involving giant (like 100^100) numbers, and I had just read
+about the `BigInt` type in Julia; it was a joy to apply something so immediately.
+
+After pairing, I went for a chat with someone new at RC. We were auto-connected via another bot on RC's Zulip, the "chat
+bot", formerly known as the coffee bot, but since the crux is for two people to chat and not necessarily to drink a cup
+of coffee in concert, it was renamed. We got some boba ("bubble milk tea"), which I love as part of a walk. I learned a
+bit about dependent types, and spoke a bit about my interest in Julia. I had signed up for matchings Tue-Thu; I look
+forward to this organized yet low-commitment way of just getting to know a variety of people during my time here.
+
 ## 2019-11-04 16:44
 
 My first day at RC was a whirlwind. I enjoyed it, but definitely high-energy. Met a lot of folks in a well-organized way
